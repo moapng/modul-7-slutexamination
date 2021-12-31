@@ -1,0 +1,56 @@
+.header {
+    display: inline;
+}
+
+.circle {
+    background-color: #2F2926;
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    display: inline;
+    float: left;
+    margin-right: 10px;
+}
+
+.circle:hover {
+    background-color: black;
+}
+
+.plus-img {
+    width: 15px;
+    height: 15px;
+    padding: 5px;
+}
+
+.bag {
+    margin-top: 5px;
+    position: absolute;
+    width: 35px;
+    height: 35px;
+}
+
+.bag-img {
+    width: 20px;
+    height: 20px;
+    padding: 7px;
+}
+
+
+
+.product-item {
+    margin-left: 35vw;
+    width: 315px;
+    height: 90px;
+    display: inline-block;
+    margin-left: 10px;
+}
+
+h2 {
+    display: inline;
+    color: #2F2926;
+}
+
+.price {
+    float: right;
+    margin-top: 0;
+}

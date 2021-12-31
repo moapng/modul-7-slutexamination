@@ -1,0 +1,16 @@
+p {
+  font-family: 'Work Sans', sans-serif;
+}
+
+body {
+  margin: 0;
+  background: #F3E4E1;
+  font-family: 'PT Serif';
+}
+
+.container {
+  width: 375px;
+  height: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+}

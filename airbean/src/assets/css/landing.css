@@ -1,0 +1,19 @@
+.landing {
+    background-color: #38846D;
+    height: 664px;
+}
+
+.floral-left {
+    float: left;
+    display: inline;
+}
+
+.floral-right {
+    float: right;
+}
+
+.logo {
+    position: fixed;
+    top: 220px;
+    left: 42.5vw;
+}

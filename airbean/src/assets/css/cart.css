@@ -1,0 +1,28 @@
+.cart {
+    background-color: white;
+    height: fit-content;
+    padding: 20px;
+
+}
+
+.confirm {
+    background-color: #2F2926;
+    color: white;
+    border-radius: 20px;
+    width: inherit;
+    height: 40px;
+}
+
+h1 {
+    padding-top: 5px;
+    text-align: center;
+}
+
+.confirm h2 {
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    text-align: center;
+}
